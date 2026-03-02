@@ -28,4 +28,10 @@ python train_model.py
 python predict.py
 
 ## Author
-Mukesh
+Team ID : LTVIP2026TMIDS73792
+Team Size : 4
+Team Leader : Mula Jahnavi
+Team member : Mukesh Reddy Rayavaram
+Team member : Yasaswini Reddy
+Tamatam
+Team member : Murakambattu Hema Sai
